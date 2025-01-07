@@ -1,3 +1,3 @@
 # Movie_Analysis
 
-The project leverages SQL queries to clean, filter, and analyze COVID-19-related data, extracting key statistics such as confirmed cases, recoveries, and mortality rates across different regions and timeframes.
+The project utilizes Python to process and visualize movie data, performing tasks such as data cleaning, descriptive analysis, and generating visual reports to highlight key insights on genres, ratings, and trends.
